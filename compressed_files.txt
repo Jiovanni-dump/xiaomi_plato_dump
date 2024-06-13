@@ -1,0 +1,2 @@
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+vendor/lib64/mt6895/libaibc_tuning.so.xz
