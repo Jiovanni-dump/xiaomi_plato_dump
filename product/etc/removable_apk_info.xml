@@ -1,0 +1,9 @@
+<string-array name="removable_apk_list">
+    <item>com.miui.android.fashiongallery</item>
+    <item>com.miui.mediaeditor</item>
+</string-array>
+
+<string-array name="removable_apk_path_list">
+    <item>/product/data-app/MiGalleryLockScreenGlobal/MiGalleryLockScreenGlobal.apk</item>
+    <item>/product/data-app/MIMediaEditorGlobal/MIMediaEditorGlobal.apk</item>
+</string-array>
