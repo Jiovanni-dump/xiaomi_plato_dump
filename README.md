@@ -1,0 +1,14 @@
+# missi-user 15 AP3A.240905.015.A2 OS2.0.2.0.VLQMIXM release-keys
+- manufacturer: xiaomi
+- platform: common
+- codename: plato
+- flavor: missi-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: OS2.0.2.0.VLQMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/plato_global/plato:12/SP1A.210812.016/OS2.0.2.0.VLQMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi-user-15-AP3A.240905.015.A2-OS2.0.2.0.VLQMIXM-release-keys
+- repo: xiaomi_plato_dump
